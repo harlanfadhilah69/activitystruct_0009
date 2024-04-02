@@ -1,9 +1,13 @@
 #include <iostream>
 using namespace std;
 
-struct mahasiswa {
+struct Mahasiswa {
 	string nim;
 	string nama;
 	string alamat;
 	string umur;
 };
+
+int main() {
+	
+}
