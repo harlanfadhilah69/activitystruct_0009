@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "activitystruct_0009", "acti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContohKedua2", "..\ContohKedua2\ContohKedua2.vcxproj", "{10F91FE3-1400-419E-8349-0935AE9A77BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ContohKetiga3", "..\ContohKetiga3\ContohKetiga3.vcxproj", "{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{10F91FE3-1400-419E-8349-0935AE9A77BC}.Release|x64.Build.0 = Release|x64
 		{10F91FE3-1400-419E-8349-0935AE9A77BC}.Release|x86.ActiveCfg = Release|Win32
 		{10F91FE3-1400-419E-8349-0935AE9A77BC}.Release|x86.Build.0 = Release|Win32
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Debug|x64.ActiveCfg = Debug|x64
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Debug|x64.Build.0 = Debug|x64
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Debug|x86.ActiveCfg = Debug|Win32
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Debug|x86.Build.0 = Debug|Win32
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Release|x64.ActiveCfg = Release|x64
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Release|x64.Build.0 = Release|x64
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Release|x86.ActiveCfg = Release|Win32
+		{824CA2CF-C6C3-4B81-84D9-5B3A6F00958D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
